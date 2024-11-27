@@ -1,5 +1,5 @@
 # Reto 2
-Hola, soy }**Alejandro Bello** y pertenezco al grupo fenomenoides, a continuación nuestro logo:
+Hola, soy **Alejandro Bello** y pertenezco al grupo fenomenoides, a continuación nuestro logo:
 
 <details><summary>Preparense para ver el grandioso logo: </summary><p>
 <div align='center'>
